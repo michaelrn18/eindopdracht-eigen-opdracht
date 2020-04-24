@@ -1,6 +1,8 @@
-# Django Ecommerce
+# Django 
 
-ik ben bezig met het maken van een webshop voor school. 
+python v 3.6.0
+
+webshop eigen project
 ```
 virtualenv env
 source ./env/Scripts/activate
